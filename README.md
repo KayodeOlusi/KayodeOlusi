@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there, I'm Kayode Oluwalusi  👋🏾</h1>
 
-<p align='center'>I am a Web and Game Developer.</p>
+<p align='center'>I am a Software Engineer.</p>
 
 <p align='center'>
 <a href="https://wa.me/2348056496730?text=Hello Kayode" target="_blank">
