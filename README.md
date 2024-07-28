@@ -19,7 +19,7 @@
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=KayodeOlusi&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KayodeOlusi&hide=css,html,scss,go&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KayodeOlusi&hide=css,html,scss,rust,go&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=KayodeOlusi">
 </p>
 </p>
